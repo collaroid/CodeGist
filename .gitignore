@@ -1,0 +1,28 @@
+#java
+*.class
+
+# generated files
+bin/
+out/
+.externalToolBuilders
+.metadata
+.settings/
+META-INF/
+.idea/
+.idea/workspace.xml
+## generic files to ignore
+*.tmp
+*.bak
+*.swp
+*.log
+*.lock
+*.DS_Store
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+#intelijidea project
+*.iml
+*.ipr
+*.iws
